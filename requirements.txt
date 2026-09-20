@@ -1,0 +1,8 @@
+# Direct dependencies from the environment used to execute the notebook.
+# Python 3.13.2; transitive dependencies are not fully locked.
+pandas==3.0.5
+numpy==2.5.2
+matplotlib==3.11.1
+yfinance==1.7.0
+notebook==7.6.2
+ipykernel==6.29.5
